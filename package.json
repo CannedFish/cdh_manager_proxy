@@ -1,0 +1,26 @@
+{
+  "name": "CDHManagerProxy",
+  "productName": "CDH Manager Proxy",
+  "version": "0.2.0",
+  "decription": "A proxy for CDH Manager without login",
+  "private": true,
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "repository": "",
+  "keywords": [
+    "CDH Manager",
+    "proxy"
+  ],
+  "author": [
+    "v1",
+    "CannedFish"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~1.17.0",
+    "querystring": "~0.2.0",
+    "yargs": "^12.0.2"
+  }
+}
