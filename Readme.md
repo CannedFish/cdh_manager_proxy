@@ -2,6 +2,10 @@
 
 A proxy server for CDH Manager without need login.
 
+## Require
+
+NodeJS >= v8.9.1
+
 ## Setup
 
 ```shell
