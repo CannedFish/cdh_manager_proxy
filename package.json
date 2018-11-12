@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node proxy.js"
   },
-  "repository": "",
+  "repository": "https://github.com/CannedFish/cdh_manager_proxy.git",
   "keywords": [
     "CDH Manager",
     "proxy"
